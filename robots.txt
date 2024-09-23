@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://owkirdo.github.io/sitemap/sitemap.txt
